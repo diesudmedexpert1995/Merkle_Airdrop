@@ -1,3 +1,7 @@
+## About Project
+This project is example how to build a gas-efficient Merkle Airdrop, which works in different blockchain networks as 'Ethereum'. Developed as project for learning purposes ['Cyfrin Updraft - Advanced Foundry'](https://updraft.cyfrin.io/courses/advanced-foundry/).
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
